@@ -94,9 +94,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="17.696205"
-     inkscape:cy="4.0745372"
+     inkscape:zoom="20.53125"
+     inkscape:cx="20.540004"
+     inkscape:cy="5.0976834"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -167,7 +167,7 @@
          d="m 11.726762,1045.8255 3.767256,4.1391 c 0,0 0.006,1.1619 0.006,1.8977 -0.718775,0 -1.814633,-0.011 -1.814633,-0.011 l -4.4430405,-3.8667"
          id="path9069"
          sodipodi:nodetypes="ccccc"
-         style="color:#000000;fill:#2d2d2d;stroke:#2d2d2d;stroke-width:0.99988973;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1;stroke-opacity:1" />
+         style="color:#000000;fill:#005c94;fill-opacity:1;stroke:#005c94;stroke-width:0.99988973;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          d="m 11.652171,1047.3761 2.811169,2.9502"
@@ -181,14 +181,14 @@
            inkscape:connector-curvature="0"
            id="path8495-8"
            d="m -294.97129,-76.100257 c 62.2081,0 112.69583,50.488972 112.69583,112.698599 0,62.209627 -50.48773,112.698598 -112.69583,112.698598 -62.20809,0 -112.69582,-50.488971 -112.69582,-112.698598 0,-62.209627 50.48773,-112.698599 112.69582,-112.698599 z m 0,34.676492 c -43.06714,0 -78.02018,34.9539039 -78.02018,78.022107 0,43.068203 34.95304,78.022108 78.02018,78.022108 43.06715,0 78.02019,-34.953905 78.02019,-78.022108 0,-43.0682031 -34.95304,-78.022107 -78.02019,-78.022107 z"
-           style="color:#000000;fill:#3465a4;stroke:none;stroke-width:17.33799934" />
+           style="color:#000000;fill:#0084c8;stroke:none;stroke-width:17.33799934" />
         <ellipse
            ry="95.378403"
            rx="95.37719"
            cy="36.598949"
            cx="-294.97049"
            id="path8501-1"
-           style="color:#000000;fill:none;stroke:none;stroke-width:17.30012512;fill-opacity:1" />
+           style="color:#000000;fill:none;fill-opacity:1;stroke:none;stroke-width:17.30012512" />
         <ellipse
            id="path9439"
            cy="36.596455"
