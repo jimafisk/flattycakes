@@ -21,9 +21,9 @@
    version="1.0"
    viewBox="0 0 16 16">
   <sodipodi:namedview
-     inkscape:cy="2.9216255"
-     inkscape:cx="16.335896"
-     inkscape:zoom="16.766481"
+     inkscape:cy="5.7447234"
+     inkscape:cx="15.043939"
+     inkscape:zoom="20.401402"
      inkscape:window-height="752"
      inkscape:window-width="1280"
      inkscape:pageshadow="2"
@@ -157,12 +157,12 @@
          inkscape:connector-curvature="0"
          id="path4326"
          d="m 0.00358225,15.504933 2.99283695,-0.0099"
-         style="fill:#555753;fill-rule:evenodd;stroke:#555753;stroke-width:0.99012882px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.99012882px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path4328"
          d="m 7.0011857,15.509651 7.9976283,-0.01932"
-         style="fill:none;fill-rule:evenodd;stroke:#555753;stroke-width:0.98069501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.98069501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <path
        transform="matrix(0.91415894,0.40535592,-0.5220051,0.85294237,0,0)"
@@ -178,7 +178,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#5187b0;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="fill:#5187b0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 11.496151,7.843846 15.984273,3.1917069 14.418649,6.44224 11.496151,9.394559 Z"
        id="path833"
        inkscape:connector-curvature="0" />
