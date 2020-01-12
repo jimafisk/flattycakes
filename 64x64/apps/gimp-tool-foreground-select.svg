@@ -15,7 +15,7 @@
    version="1.0"
    viewBox="0 0 16 16"
    sodipodi:docname="gimp-tool-foreground-select.svg"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+   inkscape:version="0.92.4 (unknown)">
   <defs
      id="defs48" />
   <sodipodi:namedview
@@ -27,16 +27,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="868"
-     inkscape:window-height="551"
+     inkscape:window-width="1375"
+     inkscape:window-height="786"
      id="namedview46"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="-5.0169492"
-     inkscape:cy="8"
-     inkscape:window-x="206"
-     inkscape:window-y="104"
-     inkscape:window-maximized="0"
+     inkscape:zoom="23.354672"
+     inkscape:cx="7.4178481"
+     inkscape:cy="6.5732089"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg11300" />
   <metadata
      id="metadata4">
@@ -54,7 +54,7 @@
         <dc:source>http://jimmac.musichall.cz</dc:source>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
@@ -79,11 +79,12 @@
        id="g4064">
       <g
          id="g4133"
-         transform="matrix(-.98093 0 0 .98041 13.184 7.8936)">
+         transform="matrix(-0.98093,0,0,0.98041,13.184,7.8936)">
         <path
            id="rect4014-3-5-4"
-           d="m-2.3615-7.5425h11.23v11.212h-11.23z"
-           style="fill:none;stroke-width:1.0182;stroke:#2d2d2d;stroke-opacity:1" />
+           d="m -2.3615,-7.5425 h 11.23 v 11.212 h -11.23 z"
+           style="fill:#666666;stroke:#666666;stroke-width:1.01820004;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
       </g>
       <rect
          id="rect4113"
@@ -91,228 +92,232 @@
          y="4"
          width="11"
          height="11"
-         style="fill:#cccccc;opacity:1;paint-order:stroke fill markers" />
+         style="opacity:1;fill:#cccccc;paint-order:stroke fill markers" />
       <g
          id="g4111"
-         transform="matrix(.99983 0 0 .99805 1.0044 -.47421)">
+         transform="matrix(0.99983,0,0,0.99805,1.0044,-0.47421)">
         <g
            id="g4826"
-           transform="matrix(.83398 0 0 1.0518 .37911 -1.4266)">
+           transform="matrix(0.83398,0,0,1.0518,0.37911,-1.4266)">
           <path
              id="path4308"
-             d="m7.6775 14.99h-3.2822c-0.92997 0-1.8507-0.33967-2.1882-1.3078-0.32048-0.91934-0.054704-2.6701 2.024-4.0868h3.884c2.0788 1.3078 2.3385 3.0963 1.8599 4.1413-0.48757 1.0646-1.3129 1.2533-2.2976 1.2533z"
-             style="color:#000000;fill-rule:evenodd;fill:#9ade00;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.30885px;stroke:#73d216;stroke-opacity:1" />
+             d="M 7.6775,14.99 H 4.3953 C 3.46533,14.99 2.5446,14.65033 2.2071,13.6822 1.88662,12.76286 2.152396,11.0121 4.2311,9.5954 h 3.884 c 2.0788,1.3078 2.3385,3.0963 1.8599,4.1413 C 9.48743,14.8013 8.6621,14.99 7.6774,14.99 Z"
+             style="color:#000000;fill:#9ade00;fill-rule:evenodd;stroke:none;stroke-width:0.30884999px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
         </g>
         <g
            id="g4822"
-           transform="matrix(.88172 0 0 .88526 .11513 .89011)">
+           transform="matrix(0.88172,0,0,0.88526,0.11513,0.89011)">
           <ellipse
              id="path4320"
              transform="scale(-1,1)"
-             cx="-6.0911"
-             cy="8.0151"
+             cx="-6.0911002"
+             cy="8.0150995"
              rx="2.6805"
              ry="2.6701"
-             style="color:#000000;fill-rule:evenodd;fill:#fcaf3e;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.30885px;stroke:#fcaf3e;stroke-opacity:1" />
+             style="color:#000000;fill:#fcaf3e;fill-rule:evenodd;stroke:#fcaf3e;stroke-width:0.30884999px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
         </g>
       </g>
       <path
          id="rect4014-3-5-4-0"
-         d="m12.5 3.5002h-12v12h12z"
-         style="fill:none;stroke-width:1.0005;stroke:#000" />
+         d="m 12.5,3.5002 h -12 v 12 h 12 z"
+         style="fill:none;stroke:#2d2d2d;stroke-width:1.00049996;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <g
          id="g4184"
-         style="fill:#fff">
+         style="fill:#ffffff">
         <rect
            id="rect4115"
            y="15"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers"
+           x="0" />
         <rect
            id="rect4115-4"
-           x="2"
+           x="1"
            y="15"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
         <rect
            id="rect4115-44"
            x="4"
            y="15"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
         <rect
            id="rect4115-5"
-           x="6"
+           x="5"
            y="15"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
         <rect
            id="rect4115-7"
            x="8"
            y="15"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
         <rect
            id="rect4115-1"
-           x="10"
+           x="9"
            y="15"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
         <rect
            id="rect4115-2"
            x="12"
            y="15"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
       </g>
       <g
          id="g4184-0"
          transform="translate(0,-12)"
-         style="fill:#fff">
+         style="fill:#ffffff">
         <rect
            id="rect4115-9"
            y="15"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers"
+           x="0" />
         <rect
            id="rect4115-4-9"
-           x="2"
+           x="3"
            y="15"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
         <rect
            id="rect4115-44-8"
            x="4"
            y="15"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
         <rect
            id="rect4115-5-3"
-           x="6"
+           x="7"
            y="15"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
         <rect
            id="rect4115-7-9"
            x="8"
            y="15"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
         <rect
            id="rect4115-1-7"
-           x="10"
+           x="11"
            y="15"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
         <rect
            id="rect4115-2-7"
            x="12"
            y="15"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
       </g>
       <g
          id="g4254"
-         style="fill:#fff">
+         style="fill:#ffffff">
         <rect
            id="rect4115-6"
            transform="rotate(-90)"
-           x="-14"
-           y="2e-8"
+           x="-13"
+           y="2e-08"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
         <rect
            id="rect4115-4-5"
            transform="rotate(-90)"
            x="-12"
-           y="2e-8"
+           y="2e-08"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
         <rect
            id="rect4115-44-4"
            transform="rotate(-90)"
-           x="-10"
-           y="2e-8"
+           x="-9"
+           y="2e-08"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
         <rect
            id="rect4115-5-2"
            transform="rotate(-90)"
            x="-8"
-           y="2e-8"
+           y="2e-08"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
         <rect
            id="rect4115-7-4"
            transform="rotate(-90)"
-           x="-6"
-           y="2e-8"
+           x="-5"
+           y="2.4492937e-16"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
       </g>
       <g
          id="g4254-7"
          transform="translate(12)"
-         style="fill:#fff">
+         style="fill:#ffffff">
         <rect
            id="rect4115-6-0"
            transform="rotate(-90)"
-           x="-14"
-           y="2e-8"
+           x="-15"
+           y="2e-08"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
         <rect
            id="rect4115-4-5-8"
            transform="rotate(-90)"
            x="-12"
-           y="2e-8"
+           y="2e-08"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
         <rect
            id="rect4115-44-4-6"
            transform="rotate(-90)"
-           x="-10"
-           y="2e-8"
+           x="-11"
+           y="2e-08"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
         <rect
            id="rect4115-5-2-1"
            transform="rotate(-90)"
            x="-8"
-           y="2e-8"
+           y="2e-08"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
         <rect
            id="rect4115-7-4-9"
            transform="rotate(-90)"
-           x="-6"
-           y="2e-8"
+           x="-7"
+           y="2e-08"
            width="1"
            height="1"
-           style="fill:#fff;paint-order:stroke fill markers" />
+           style="fill:#ffffff;paint-order:stroke fill markers" />
       </g>
     </g>
   </g>

@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg30571"
    version="1.1"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="gimp-tool-align.svg">
   <defs
      id="defs30573" />
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="26.807756"
-     inkscape:cx="9.0588179"
-     inkscape:cy="9.7870638"
+     inkscape:zoom="32"
+     inkscape:cx="10.381327"
+     inkscape:cy="7.6559951"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -46,13 +46,14 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
-     showborder="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="755"
-     inkscape:window-x="0"
-     inkscape:window-y="1"
+     showborder="true"
+     inkscape:window-width="1375"
+     inkscape:window-height="786"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:snap-global="false">
+     inkscape:snap-global="false"
+     inkscape:pagecheckerboard="true">
     <inkscape:grid
        type="xygrid"
        id="grid4401" />
@@ -65,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Klaus Staedtler</dc:title>
@@ -78,21 +79,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1036.3622)">
+     transform="translate(0,-1036.3622)"
+     style="display:inline">
     <g
        id="g4405"
-       transform="matrix(0.9995257,0,0,-1,0,2088.7244)">
-      <rect
-         y="1036.3622"
-         x="0"
-         height="16"
-         width="16"
-         id="rect4062"
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06608164;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <g
-         style="display:inline;fill:#eeeeec;stroke:#555753;stroke-width:1.14599752;stroke-miterlimit:4;stroke-dasharray:none"
-         id="use6564"
-         transform="matrix(-1.1152984,0,0,-0.61233574,-108.12272,1164.86)" />
+       transform="matrix(0.9995257,0,0,-1,0,2088.7244)"
+       style="display:inline">
       <g
          style="display:inline;fill:#eeeeec;stroke:#555753;stroke-width:0.99792773"
          id="use6566"
@@ -100,10 +92,10 @@
         <rect
            y="185.55431"
            x="-111.4592"
-           height="7.0139952"
-           width="17.925461"
+           height="7.0574265"
+           width="18.612568"
            id="rect12006"
-           style="display:inline;overflow:visible;visibility:visible;opacity:1;fill:#204a87;fill-opacity:1;fill-rule:evenodd;stroke:#204a87;stroke-width:1.3148402;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" />
+           style="display:inline;overflow:visible;visibility:visible;opacity:1;fill:#204a87;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" />
       </g>
       <g
          style="display:inline;fill:#eeeeec;stroke:#555753;stroke-width:0.99792773"
@@ -112,30 +104,20 @@
         <rect
            y="185.55431"
            x="-111.4592"
-           height="7.0139952"
-           width="17.925461"
+           height="7.1710753"
+           width="18.612097"
            id="rect12006-2"
-           style="display:inline;overflow:visible;visibility:visible;opacity:1;fill:#204a87;fill-opacity:1;fill-rule:evenodd;stroke:#204a87;stroke-width:1.3148402;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" />
+           style="display:inline;overflow:visible;visibility:visible;opacity:1;fill:#204a87;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+           ry="0" />
       </g>
-      <g
-         style="fill:url(#linearGradient13623);fill-opacity:1;stroke:none"
-         id="g12280"
-         transform="matrix(-1.4999085,0,0,-0.69841267,284.23284,1380.4733)">
-        <rect
-           y="470.49991"
-           x="187.5"
-           height="21"
-           width="2.0001221"
-           id="rect12282"
-           style="fill:url(#linearGradient4048);fill-opacity:1;stroke:none;stroke-width:1.00000095;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      </g>
-      <rect
-         y="1037.8622"
-         x="1"
-         height="13.5"
-         width="1"
-         id="rect4392"
-         style="opacity:1;fill:#fcaf3e;fill-opacity:1;stroke:none;stroke-width:0.48904914;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
     </g>
+    <rect
+       style="display:inline;fill:#fcaf3e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect831"
+       width="1.8561554"
+       height="13.700229"
+       x="0.13258234"
+       y="1037.3895"
+       ry="0" />
   </g>
 </svg>
